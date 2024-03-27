@@ -1,0 +1,45 @@
+*
+{
+  background-color: rgba(128, 255, 0, 0);
+  border: 5px;
+  
+
+}
+body{
+    background-image: url(../img/Fondo.jpg);
+    height: 693px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.rubik-bubbles-regular {
+  color: aquamarine;
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+   .container-fluid{
+      background-color: rgb(127, 224, 209);
+      width: 700px;
+    /*height: 150px;*/
+}
+
+
+.modal{
+    background-color: tomato;
+}
+.d-block w-100{
+  width: 100px;
+  height: 100px;
+}
+.um{
+  color: black;
+}
